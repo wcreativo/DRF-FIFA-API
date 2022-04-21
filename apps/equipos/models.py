@@ -7,7 +7,7 @@ from .managers import EquipoManager
 
 
 class Equipo(models.Model):
-    nombre = models.CharField(max_length=255, verbose_name='Nombre del Equipo')
+    nombre = models.CharField(max_length=255, verbose_name='Nombre del Equipo', unique=True)
     bandera = models.ImageField(verbose_name='Bandera del equipo', null=True, blank=True)
     escudo = models.ImageField(verbose_name='Escudo del equipo', null=True, blank=True)
     historical = HistoricalRecords()
