@@ -4,6 +4,7 @@ from django.db import models
 from simple_history.models import HistoricalRecords
 "Local Imports"
 from apps.equipos.models import Equipo
+from .managers import JugadorManager
 
 
 class Jugador(models.Model):
@@ -13,9 +14,11 @@ class Jugador(models.Model):
     posicion = models.CharField(max_length=255, verbose_name='Posición del jugador')
     numero_camiseta = models.IntegerField(verbose_name='Numero de camiseta')
     titular = models.BooleanField(default=True)
-    foto = models.ImageField(verbose_name='Foto del jugador')
+    foto = models.ImageField(verbose_name='Foto del jugador', blank=True, null=True)
     equipo = models.ForeignKey(Equipo, on_delete=models.CASCADE)
     historical = HistoricalRecords()
+
+    objects = JugadorManager()
 
 
     class Meta:

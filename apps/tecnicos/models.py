@@ -4,6 +4,7 @@ from django.db import models
 from simple_history.models import HistoricalRecords
 "Local Imports"
 from apps.equipos.models import Equipo
+from .managers import CuerpoTecnicoManager
 
 
 class Rol(models.Model):
@@ -20,6 +21,8 @@ class Cuerpo_Tecnico(models.Model):
     rol = models.ForeignKey(Rol, on_delete=models.CASCADE)
     equipo = models.ForeignKey(Equipo, on_delete=models.CASCADE)
     historical = HistoricalRecords()
+
+    objects = CuerpoTecnicoManager()
 
     class Meta:
         verbose_name = 'Cuerpo Técnico'
