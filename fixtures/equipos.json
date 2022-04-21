@@ -1,0 +1,131 @@
+[
+{
+    "model": "equipos.historicalequipo",
+    "pk": 1,
+    "fields": {
+        "id": 1,
+        "nombre": "Selección Colombia",
+        "bandera": "",
+        "escudo": "",
+        "history_date": "2022-04-21T00:56:49.111Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "equipos.historicalequipo",
+    "pk": 2,
+    "fields": {
+        "id": 2,
+        "nombre": "Seleccion Argentina",
+        "bandera": "",
+        "escudo": "",
+        "history_date": "2022-04-21T11:15:52.956Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "equipos.historicalequipo",
+    "pk": 3,
+    "fields": {
+        "id": 3,
+        "nombre": "Seleccion Paraguay",
+        "bandera": "",
+        "escudo": "",
+        "history_date": "2022-04-21T11:16:03.499Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "equipos.historicalequipo",
+    "pk": 4,
+    "fields": {
+        "id": 4,
+        "nombre": "Seleccion Brazil",
+        "bandera": "",
+        "escudo": "",
+        "history_date": "2022-04-21T14:13:30.435Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "equipos.historicalequipo",
+    "pk": 5,
+    "fields": {
+        "id": 5,
+        "nombre": "Seleccion Honduras",
+        "bandera": "",
+        "escudo": "",
+        "history_date": "2022-04-21T15:35:05.959Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "equipos.historicalequipo",
+    "pk": 6,
+    "fields": {
+        "id": 4,
+        "nombre": "Seleccion Chile",
+        "bandera": "",
+        "escudo": "",
+        "history_date": "2022-04-21T16:27:03.692Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "equipos.equipo",
+    "pk": 1,
+    "fields": {
+        "nombre": "Selección Colombia",
+        "bandera": "",
+        "escudo": ""
+    }
+},
+{
+    "model": "equipos.equipo",
+    "pk": 2,
+    "fields": {
+        "nombre": "Seleccion Argentina",
+        "bandera": "",
+        "escudo": ""
+    }
+},
+{
+    "model": "equipos.equipo",
+    "pk": 3,
+    "fields": {
+        "nombre": "Seleccion Paraguay",
+        "bandera": "",
+        "escudo": ""
+    }
+},
+{
+    "model": "equipos.equipo",
+    "pk": 4,
+    "fields": {
+        "nombre": "Seleccion Chile",
+        "bandera": "",
+        "escudo": ""
+    }
+},
+{
+    "model": "equipos.equipo",
+    "pk": 5,
+    "fields": {
+        "nombre": "Seleccion Honduras",
+        "bandera": "",
+        "escudo": ""
+    }
+}
+]
