@@ -42,3 +42,9 @@ def tecnico_detail_api_view(request, pk):
         tecnico = Cuerpo_Tecnico.objects.filter(id=pk).first()
         tecnico.delete()
         return Response({'message': 'Técnico eliminado'}, status.HTTP_200_OK)
+
+
+@api_view(['GET'])
+def tecnico_mas_viejo_api_view(request):
+    tecnico_mas_viejo = Cuerpo_Tecnico.objects.tecnico_mas_viejo()
+    return Response({'Técnico_más_viejo': tecnico_mas_viejo.nombre}, status.HTTP_200_OK)

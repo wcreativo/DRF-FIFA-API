@@ -43,3 +43,32 @@ def jugador_detail_api_view(request, pk):
         jugador = Jugador.objects.filter(id=pk).first()
         jugador.delete()
         return Response({'message': 'Jugador eliminado'}, status.HTTP_200_OK)
+
+
+@api_view(['GET'])
+def total_jugadores_api_view(request):
+    total_jugadores = Jugador.objects.total_jugadores()
+    return Response({'Total_jugadores': total_jugadores}, status.HTTP_200_OK)
+
+
+@api_view(['GET'])
+def jugador_mas_joven_api_view(request):
+    jugador_mas_joven = Jugador.objects.jugador_mas_joven()
+    return Response({'Jugador_mas_joven': jugador_mas_joven.nombre}, status.HTTP_200_OK)
+
+@api_view(['GET'])
+def jugador_mas_viejo_api_view(request):
+    jugador_mas_viejo = Jugador.objects.jugador_mas_viejo()
+    return Response({'Jugador_mas_viejo': jugador_mas_viejo.nombre}, status.HTTP_200_OK)
+
+@api_view(['GET'])
+def suplentes_api_view(request):
+    suplentes = Jugador.objects.jugadores_suplentes()
+    return Response({'Jugadores_suplentes': suplentes}, status.HTTP_200_OK)
+
+@api_view(['GET'])
+def promedio_edad_jugadores_api_view(request):
+    promedio_edad = Jugador.objects.promedio_edad_jugadores()
+    return Response({'Promedio_edad_jugadores': promedio_edad}, status.HTTP_200_OK)
+
+
