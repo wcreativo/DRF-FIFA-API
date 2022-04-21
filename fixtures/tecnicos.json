@@ -1,0 +1,197 @@
+[
+{
+    "model": "tecnicos.rol",
+    "pk": 1,
+    "fields": {
+        "rol": "Técnico"
+    }
+},
+{
+    "model": "tecnicos.rol",
+    "pk": 2,
+    "fields": {
+        "rol": "Asistente"
+    }
+},
+{
+    "model": "tecnicos.rol",
+    "pk": 3,
+    "fields": {
+        "rol": "Medico"
+    }
+},
+{
+    "model": "tecnicos.rol",
+    "pk": 4,
+    "fields": {
+        "rol": "Preparador"
+    }
+},
+{
+    "model": "tecnicos.historicalcuerpo_tecnico",
+    "pk": 1,
+    "fields": {
+        "id": 1,
+        "nombre": "Reinaldo",
+        "apellidos": "Rueda",
+        "fecha_nacimiento": "1960-04-26",
+        "nacionalidad": "Colombiano",
+        "rol": 1,
+        "equipo": 1,
+        "history_date": "2022-04-21T16:57:09.381Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "tecnicos.historicalcuerpo_tecnico",
+    "pk": 2,
+    "fields": {
+        "id": 2,
+        "nombre": "Carlos",
+        "apellidos": "Queiroz",
+        "fecha_nacimiento": "2000-04-27",
+        "nacionalidad": "Portugal",
+        "rol": 2,
+        "equipo": 1,
+        "history_date": "2022-04-21T16:57:57.404Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "tecnicos.historicalcuerpo_tecnico",
+    "pk": 3,
+    "fields": {
+        "id": 3,
+        "nombre": "Arturo",
+        "apellidos": "Reyes",
+        "fecha_nacimiento": "1980-04-20",
+        "nacionalidad": "Colombiano",
+        "rol": 3,
+        "equipo": 1,
+        "history_date": "2022-04-21T16:58:34.403Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "tecnicos.historicalcuerpo_tecnico",
+    "pk": 4,
+    "fields": {
+        "id": 4,
+        "nombre": "Leonel",
+        "apellidos": "Álvarez",
+        "fecha_nacimiento": "1929-04-19",
+        "nacionalidad": "Colombiano",
+        "rol": 4,
+        "equipo": 1,
+        "history_date": "2022-04-21T16:59:24.375Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "tecnicos.historicalcuerpo_tecnico",
+    "pk": 5,
+    "fields": {
+        "id": 5,
+        "nombre": "Jose Nestor",
+        "apellidos": "Pekerman",
+        "fecha_nacimiento": "1945-04-19",
+        "nacionalidad": "Argentino",
+        "rol": 4,
+        "equipo": 1,
+        "history_date": "2022-04-21T17:00:05.380Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "tecnicos.historicalcuerpo_tecnico",
+    "pk": 6,
+    "fields": {
+        "id": 5,
+        "nombre": "Jose Nestor",
+        "apellidos": "Pekerman",
+        "fecha_nacimiento": "1945-04-19",
+        "nacionalidad": "Argentino",
+        "rol": 2,
+        "equipo": 1,
+        "history_date": "2022-04-21T17:00:33.801Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "tecnicos.historicalcuerpo_tecnico",
+    "pk": 7,
+    "fields": {
+        "id": 5,
+        "nombre": "Jose Nestor",
+        "apellidos": "Pekerman",
+        "fecha_nacimiento": "1945-04-19",
+        "nacionalidad": "Argentino",
+        "rol": 2,
+        "equipo": 1,
+        "history_date": "2022-04-21T17:00:46.070Z",
+        "history_change_reason": null,
+        "history_type": "-",
+        "history_user": 1
+    }
+},
+{
+    "model": "tecnicos.cuerpo_tecnico",
+    "pk": 1,
+    "fields": {
+        "nombre": "Reinaldo",
+        "apellidos": "Rueda",
+        "fecha_nacimiento": "1960-04-26",
+        "nacionalidad": "Colombiano",
+        "rol": 1,
+        "equipo": 1
+    }
+},
+{
+    "model": "tecnicos.cuerpo_tecnico",
+    "pk": 2,
+    "fields": {
+        "nombre": "Carlos",
+        "apellidos": "Queiroz",
+        "fecha_nacimiento": "2000-04-27",
+        "nacionalidad": "Portugal",
+        "rol": 2,
+        "equipo": 1
+    }
+},
+{
+    "model": "tecnicos.cuerpo_tecnico",
+    "pk": 3,
+    "fields": {
+        "nombre": "Arturo",
+        "apellidos": "Reyes",
+        "fecha_nacimiento": "1980-04-20",
+        "nacionalidad": "Colombiano",
+        "rol": 3,
+        "equipo": 1
+    }
+},
+{
+    "model": "tecnicos.cuerpo_tecnico",
+    "pk": 4,
+    "fields": {
+        "nombre": "Leonel",
+        "apellidos": "Álvarez",
+        "fecha_nacimiento": "1929-04-19",
+        "nacionalidad": "Colombiano",
+        "rol": 4,
+        "equipo": 1
+    }
+}
+]
