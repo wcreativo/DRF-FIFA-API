@@ -1,0 +1,1068 @@
+[
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 1,
+    "fields": {
+        "id": 1,
+        "nombre": "Wilber",
+        "apellidos": "Mojica Cifuentes",
+        "fecha_nacimiento": "1985-03-08",
+        "posicion": "Arquero",
+        "numero_camiseta": 1,
+        "titular": true,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T01:13:22.279Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 2,
+    "fields": {
+        "id": 2,
+        "nombre": "Juan Pablo",
+        "apellidos": "Mayorga",
+        "fecha_nacimiento": "1980-04-12",
+        "posicion": "Delantero",
+        "numero_camiseta": 10,
+        "titular": true,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T01:14:31.342Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 3,
+    "fields": {
+        "id": 3,
+        "nombre": "Farid",
+        "apellidos": "Montenegro",
+        "fecha_nacimiento": "2022-04-18",
+        "posicion": "Defensa",
+        "numero_camiseta": 9,
+        "titular": true,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T01:15:01.953Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 4,
+    "fields": {
+        "id": 4,
+        "nombre": "Winston",
+        "apellidos": "Rojas",
+        "fecha_nacimiento": "1970-04-19",
+        "posicion": "Delantero",
+        "numero_camiseta": 2,
+        "titular": true,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T01:15:50.584Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 5,
+    "fields": {
+        "id": 5,
+        "nombre": "Jhon",
+        "apellidos": "Calvo",
+        "fecha_nacimiento": "2020-04-12",
+        "posicion": "Delantero",
+        "numero_camiseta": 23,
+        "titular": false,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T01:16:21.353Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 6,
+    "fields": {
+        "id": 6,
+        "nombre": "Lionel",
+        "apellidos": "Messi",
+        "fecha_nacimiento": "1985-04-05",
+        "posicion": "Delantero",
+        "numero_camiseta": 10,
+        "titular": true,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:16:55.340Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 7,
+    "fields": {
+        "id": 7,
+        "nombre": "Emiliano",
+        "apellidos": "Martinez",
+        "fecha_nacimiento": "1990-04-11",
+        "posicion": "Delantero",
+        "numero_camiseta": 29,
+        "titular": false,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:17:24.039Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 8,
+    "fields": {
+        "id": 8,
+        "nombre": "Paulo",
+        "apellidos": "Dybala",
+        "fecha_nacimiento": "1905-04-27",
+        "posicion": "Defensa",
+        "numero_camiseta": 12,
+        "titular": false,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:18:02.451Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 9,
+    "fields": {
+        "id": 9,
+        "nombre": "Angel",
+        "apellidos": "Di Maria",
+        "fecha_nacimiento": "1920-04-22",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 3,
+        "titular": false,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:18:56.263Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 10,
+    "fields": {
+        "id": 10,
+        "nombre": "Nicolas",
+        "apellidos": "Gutierrez",
+        "fecha_nacimiento": "1970-04-26",
+        "posicion": "Defensa",
+        "numero_camiseta": 5,
+        "titular": true,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:19:25.519Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 11,
+    "fields": {
+        "id": 11,
+        "nombre": "Rodrigo",
+        "apellidos": "De Paul",
+        "fecha_nacimiento": "1950-04-21",
+        "posicion": "Delantero",
+        "numero_camiseta": 49,
+        "titular": true,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:20:08.778Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 12,
+    "fields": {
+        "id": 12,
+        "nombre": "Lautaro",
+        "apellidos": "Martinez",
+        "fecha_nacimiento": "1960-04-20",
+        "posicion": "Delantero",
+        "numero_camiseta": 30,
+        "titular": true,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:20:40.237Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 13,
+    "fields": {
+        "id": 13,
+        "nombre": "Cristian",
+        "apellidos": "Romero",
+        "fecha_nacimiento": "1970-04-18",
+        "posicion": "Delantero",
+        "numero_camiseta": 12,
+        "titular": false,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:21:41.987Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 14,
+    "fields": {
+        "id": 14,
+        "nombre": "Geronimo",
+        "apellidos": "Rull",
+        "fecha_nacimiento": "1970-04-12",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 3,
+        "titular": false,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:22:14.129Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 15,
+    "fields": {
+        "id": 15,
+        "nombre": "Lisandro",
+        "apellidos": "Martinez",
+        "fecha_nacimiento": "1940-04-12",
+        "posicion": "Delantero",
+        "numero_camiseta": 5,
+        "titular": true,
+        "foto": "",
+        "equipo": 2,
+        "history_date": "2022-04-21T11:23:00.129Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 16,
+    "fields": {
+        "id": 16,
+        "nombre": "Rodrigo",
+        "apellidos": "Rojas",
+        "fecha_nacimiento": "1950-04-11",
+        "posicion": "Delantero",
+        "numero_camiseta": 1,
+        "titular": true,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:23:57.978Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 17,
+    "fields": {
+        "id": 17,
+        "nombre": "Celso",
+        "apellidos": "Ortiz",
+        "fecha_nacimiento": "1952-04-27",
+        "posicion": "Delantero",
+        "numero_camiseta": 2,
+        "titular": true,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:24:26.299Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 18,
+    "fields": {
+        "id": 18,
+        "nombre": "Richard",
+        "apellidos": "Ortiz",
+        "fecha_nacimiento": "1953-04-28",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 3,
+        "titular": true,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:24:50.567Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 19,
+    "fields": {
+        "id": 19,
+        "nombre": "Gustavo",
+        "apellidos": "Gomez",
+        "fecha_nacimiento": "1954-04-11",
+        "posicion": "Delantero",
+        "numero_camiseta": 4,
+        "titular": true,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:25:12.179Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 20,
+    "fields": {
+        "id": 20,
+        "nombre": "Alfredo",
+        "apellidos": "Aguilar",
+        "fecha_nacimiento": "1960-04-26",
+        "posicion": "Delantero",
+        "numero_camiseta": 5,
+        "titular": true,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:25:36.887Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 21,
+    "fields": {
+        "id": 21,
+        "nombre": "Dario",
+        "apellidos": "Lezcano",
+        "fecha_nacimiento": "1970-04-19",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 6,
+        "titular": true,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:27:07.287Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 22,
+    "fields": {
+        "id": 22,
+        "nombre": "Antony",
+        "apellidos": "Silva",
+        "fecha_nacimiento": "1962-04-19",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 6,
+        "titular": true,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:27:34.689Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 23,
+    "fields": {
+        "id": 23,
+        "nombre": "Hernan",
+        "apellidos": "Perez",
+        "fecha_nacimiento": "1962-04-28",
+        "posicion": "Defensa",
+        "numero_camiseta": 7,
+        "titular": true,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:28:15.548Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 24,
+    "fields": {
+        "id": 24,
+        "nombre": "Junior",
+        "apellidos": "Alonso",
+        "fecha_nacimiento": "1953-04-26",
+        "posicion": "Delantero",
+        "numero_camiseta": 7,
+        "titular": false,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:28:45.418Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 25,
+    "fields": {
+        "id": 25,
+        "nombre": "Miguel",
+        "apellidos": "Almiron",
+        "fecha_nacimiento": "1960-04-27",
+        "posicion": "Delantero",
+        "numero_camiseta": 8,
+        "titular": false,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:29:12.317Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 26,
+    "fields": {
+        "id": 26,
+        "nombre": "Anonio",
+        "apellidos": "Sanabria",
+        "fecha_nacimiento": "1958-04-26",
+        "posicion": "Delantero",
+        "numero_camiseta": 9,
+        "titular": false,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:29:34.047Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 27,
+    "fields": {
+        "id": 27,
+        "nombre": "Oscar",
+        "apellidos": "Cardozo",
+        "fecha_nacimiento": "1972-04-25",
+        "posicion": "Delantero",
+        "numero_camiseta": 10,
+        "titular": false,
+        "foto": "",
+        "equipo": 3,
+        "history_date": "2022-04-21T11:30:01.077Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 28,
+    "fields": {
+        "id": 28,
+        "nombre": "David",
+        "apellidos": "Ospina",
+        "fecha_nacimiento": "1940-04-27",
+        "posicion": "Arquero",
+        "numero_camiseta": 11,
+        "titular": false,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T11:30:41.500Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 29,
+    "fields": {
+        "id": 29,
+        "nombre": "Miguel",
+        "apellidos": "Borja",
+        "fecha_nacimiento": "1950-04-26",
+        "posicion": "Delantero",
+        "numero_camiseta": 12,
+        "titular": false,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T11:31:01.788Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 30,
+    "fields": {
+        "id": 30,
+        "nombre": "James",
+        "apellidos": "Rodriguez",
+        "fecha_nacimiento": "1990-04-10",
+        "posicion": "Delantero",
+        "numero_camiseta": 10,
+        "titular": false,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T11:31:25.569Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 31,
+    "fields": {
+        "id": 31,
+        "nombre": "Rene",
+        "apellidos": "Higuita",
+        "fecha_nacimiento": "1990-04-10",
+        "posicion": "Arquero",
+        "numero_camiseta": 1,
+        "titular": false,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T16:50:50.695Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 32,
+    "fields": {
+        "id": 31,
+        "nombre": "Rene",
+        "apellidos": "Higuita",
+        "fecha_nacimiento": "1990-04-10",
+        "posicion": "Defensa",
+        "numero_camiseta": 1,
+        "titular": false,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T16:52:32.621Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 33,
+    "fields": {
+        "id": 31,
+        "nombre": "Rene",
+        "apellidos": "Higuita",
+        "fecha_nacimiento": "1990-04-10",
+        "posicion": "Defensa",
+        "numero_camiseta": 1,
+        "titular": false,
+        "foto": "",
+        "equipo": 1,
+        "history_date": "2022-04-21T16:53:09.734Z",
+        "history_change_reason": null,
+        "history_type": "-",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.historicaljugador",
+    "pk": 34,
+    "fields": {
+        "id": 30,
+        "nombre": "James",
+        "apellidos": "Rodriguez",
+        "fecha_nacimiento": "1990-04-10",
+        "posicion": "Delantero",
+        "numero_camiseta": 10,
+        "titular": false,
+        "foto": "Camilo.png",
+        "equipo": 1,
+        "history_date": "2022-04-21T19:17:54.397Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 1,
+    "fields": {
+        "nombre": "Wilber",
+        "apellidos": "Mojica Cifuentes",
+        "fecha_nacimiento": "1985-03-08",
+        "posicion": "Arquero",
+        "numero_camiseta": 1,
+        "titular": true,
+        "foto": "",
+        "equipo": 1
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 2,
+    "fields": {
+        "nombre": "Juan Pablo",
+        "apellidos": "Mayorga",
+        "fecha_nacimiento": "1980-04-12",
+        "posicion": "Delantero",
+        "numero_camiseta": 10,
+        "titular": true,
+        "foto": "",
+        "equipo": 1
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 3,
+    "fields": {
+        "nombre": "Farid",
+        "apellidos": "Montenegro",
+        "fecha_nacimiento": "2022-04-18",
+        "posicion": "Defensa",
+        "numero_camiseta": 9,
+        "titular": true,
+        "foto": "",
+        "equipo": 1
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 4,
+    "fields": {
+        "nombre": "Winston",
+        "apellidos": "Rojas",
+        "fecha_nacimiento": "1970-04-19",
+        "posicion": "Delantero",
+        "numero_camiseta": 2,
+        "titular": true,
+        "foto": "",
+        "equipo": 1
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 5,
+    "fields": {
+        "nombre": "Jhon",
+        "apellidos": "Calvo",
+        "fecha_nacimiento": "2020-04-12",
+        "posicion": "Delantero",
+        "numero_camiseta": 23,
+        "titular": false,
+        "foto": "",
+        "equipo": 1
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 6,
+    "fields": {
+        "nombre": "Lionel",
+        "apellidos": "Messi",
+        "fecha_nacimiento": "1985-04-05",
+        "posicion": "Delantero",
+        "numero_camiseta": 10,
+        "titular": true,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 7,
+    "fields": {
+        "nombre": "Emiliano",
+        "apellidos": "Martinez",
+        "fecha_nacimiento": "1990-04-11",
+        "posicion": "Delantero",
+        "numero_camiseta": 29,
+        "titular": false,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 8,
+    "fields": {
+        "nombre": "Paulo",
+        "apellidos": "Dybala",
+        "fecha_nacimiento": "1905-04-27",
+        "posicion": "Defensa",
+        "numero_camiseta": 12,
+        "titular": false,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 9,
+    "fields": {
+        "nombre": "Angel",
+        "apellidos": "Di Maria",
+        "fecha_nacimiento": "1920-04-22",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 3,
+        "titular": false,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 10,
+    "fields": {
+        "nombre": "Nicolas",
+        "apellidos": "Gutierrez",
+        "fecha_nacimiento": "1970-04-26",
+        "posicion": "Defensa",
+        "numero_camiseta": 5,
+        "titular": true,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 11,
+    "fields": {
+        "nombre": "Rodrigo",
+        "apellidos": "De Paul",
+        "fecha_nacimiento": "1950-04-21",
+        "posicion": "Delantero",
+        "numero_camiseta": 49,
+        "titular": true,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 12,
+    "fields": {
+        "nombre": "Lautaro",
+        "apellidos": "Martinez",
+        "fecha_nacimiento": "1960-04-20",
+        "posicion": "Delantero",
+        "numero_camiseta": 30,
+        "titular": true,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 13,
+    "fields": {
+        "nombre": "Cristian",
+        "apellidos": "Romero",
+        "fecha_nacimiento": "1970-04-18",
+        "posicion": "Delantero",
+        "numero_camiseta": 12,
+        "titular": false,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 14,
+    "fields": {
+        "nombre": "Geronimo",
+        "apellidos": "Rull",
+        "fecha_nacimiento": "1970-04-12",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 3,
+        "titular": false,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 15,
+    "fields": {
+        "nombre": "Lisandro",
+        "apellidos": "Martinez",
+        "fecha_nacimiento": "1940-04-12",
+        "posicion": "Delantero",
+        "numero_camiseta": 5,
+        "titular": true,
+        "foto": "",
+        "equipo": 2
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 16,
+    "fields": {
+        "nombre": "Rodrigo",
+        "apellidos": "Rojas",
+        "fecha_nacimiento": "1950-04-11",
+        "posicion": "Delantero",
+        "numero_camiseta": 1,
+        "titular": true,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 17,
+    "fields": {
+        "nombre": "Celso",
+        "apellidos": "Ortiz",
+        "fecha_nacimiento": "1952-04-27",
+        "posicion": "Delantero",
+        "numero_camiseta": 2,
+        "titular": true,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 18,
+    "fields": {
+        "nombre": "Richard",
+        "apellidos": "Ortiz",
+        "fecha_nacimiento": "1953-04-28",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 3,
+        "titular": true,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 19,
+    "fields": {
+        "nombre": "Gustavo",
+        "apellidos": "Gomez",
+        "fecha_nacimiento": "1954-04-11",
+        "posicion": "Delantero",
+        "numero_camiseta": 4,
+        "titular": true,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 20,
+    "fields": {
+        "nombre": "Alfredo",
+        "apellidos": "Aguilar",
+        "fecha_nacimiento": "1960-04-26",
+        "posicion": "Delantero",
+        "numero_camiseta": 5,
+        "titular": true,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 21,
+    "fields": {
+        "nombre": "Dario",
+        "apellidos": "Lezcano",
+        "fecha_nacimiento": "1970-04-19",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 6,
+        "titular": true,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 22,
+    "fields": {
+        "nombre": "Antony",
+        "apellidos": "Silva",
+        "fecha_nacimiento": "1962-04-19",
+        "posicion": "Mediocampista",
+        "numero_camiseta": 6,
+        "titular": true,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 23,
+    "fields": {
+        "nombre": "Hernan",
+        "apellidos": "Perez",
+        "fecha_nacimiento": "1962-04-28",
+        "posicion": "Defensa",
+        "numero_camiseta": 7,
+        "titular": true,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 24,
+    "fields": {
+        "nombre": "Junior",
+        "apellidos": "Alonso",
+        "fecha_nacimiento": "1953-04-26",
+        "posicion": "Delantero",
+        "numero_camiseta": 7,
+        "titular": false,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 25,
+    "fields": {
+        "nombre": "Miguel",
+        "apellidos": "Almiron",
+        "fecha_nacimiento": "1960-04-27",
+        "posicion": "Delantero",
+        "numero_camiseta": 8,
+        "titular": false,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 26,
+    "fields": {
+        "nombre": "Anonio",
+        "apellidos": "Sanabria",
+        "fecha_nacimiento": "1958-04-26",
+        "posicion": "Delantero",
+        "numero_camiseta": 9,
+        "titular": false,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 27,
+    "fields": {
+        "nombre": "Oscar",
+        "apellidos": "Cardozo",
+        "fecha_nacimiento": "1972-04-25",
+        "posicion": "Delantero",
+        "numero_camiseta": 10,
+        "titular": false,
+        "foto": "",
+        "equipo": 3
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 28,
+    "fields": {
+        "nombre": "David",
+        "apellidos": "Ospina",
+        "fecha_nacimiento": "1940-04-27",
+        "posicion": "Arquero",
+        "numero_camiseta": 11,
+        "titular": false,
+        "foto": "",
+        "equipo": 1
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 29,
+    "fields": {
+        "nombre": "Miguel",
+        "apellidos": "Borja",
+        "fecha_nacimiento": "1950-04-26",
+        "posicion": "Delantero",
+        "numero_camiseta": 12,
+        "titular": false,
+        "foto": "",
+        "equipo": 1
+    }
+},
+{
+    "model": "jugadores.jugador",
+    "pk": 30,
+    "fields": {
+        "nombre": "James",
+        "apellidos": "Rodriguez",
+        "fecha_nacimiento": "1990-04-10",
+        "posicion": "Delantero",
+        "numero_camiseta": 10,
+        "titular": false,
+        "foto": "Camilo.png",
+        "equipo": 1
+    }
+}
+]
