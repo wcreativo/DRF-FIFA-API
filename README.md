@@ -1,4 +1,4 @@
-# FIFA API
+# FIFA API - REBUS
 
 DRF project handling business logic with Managers and @api_view decorators
 
