@@ -1,5 +1,7 @@
 # FIFA API
 
+DRF project handling business logic with Managers and @api_view decorators
+
 ## Setup
 
 The first thing to do is to clone the repository:
